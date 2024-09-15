@@ -10,6 +10,9 @@ But what if we offered a solution? What if we created a model where both infinit
 
 In this solution, we map each point on the number line to a position on the "circle of numbers." We apply this to both the X and Y axes. This transforms the Cartesian plane into a kind of sphere, where every point represents a unique (x, y) coordinate. On this new coordinate system, we can draw any function in its entirety, fully covering the range from negative infinity to infinity. Unlike the regular Cartesian system, where we wave our hands and say "it continues forever," here we capture the whole function at once.
 
+![לא מתמטיקה (1) (1) (1)](https://github.com/user-attachments/assets/79ad0587-3f1c-4d78-83f8-33a16fb87de4)
+
+
 ### How Does the Mapping Work?
 
 To project any point from the regular Cartesian plane onto our sphere, we draw a line from that point through the top of the sphere. This line will intersect the sphere at some point. The intersection is the projected point, as illustrated in the image. 
